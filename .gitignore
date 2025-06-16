@@ -1,0 +1,16 @@
+scripts/train/logs/*
+scripts/train/wandb/*
+
+metodologia.md
+
+*.csv
+*.pkl
+*.npz
+*.ckpt
+
+# scripts/train/*.yaml
+
+*__pycache__
+
+data/*/*.pdf
+
